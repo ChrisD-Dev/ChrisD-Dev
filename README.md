@@ -2,6 +2,7 @@
 <h3 align="center">Hola 👋, me llamo Chris</h3> 
 <p align="center">Soy un apasionado desarrollador <span style="color: #3260a8;">Full Stack</span> que le encanta trabajar en proyectos desafiantes y colaborar con equipos diversos para ofrecer soluciones innovadoras.</p>
 <!--<img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="30"/>-->
+
 <!--Habilidades-->
 👨‍💻   Mis habilidades principales:
 <br>
