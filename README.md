@@ -24,7 +24,7 @@
 
 <!--Proyectos-->
 <br>
-🌱 Algunos de mis proyectos (Para ver el código, contacta comigo 🙂):
+🌱 Algunos de mis proyectos:
 
 <h5>- <a href="https://cafelite.vercel.app/">Cafelite</a> (Tecnologías empleadas: Typescript, NextJS, TailwindsCSS y FramerMotion)</h5>
 <h5>- <a href="https://pokedex-next-web-app.vercel.app//">Pokedex</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, PokeAPI, FramerMotion y Zustand)</h5>
