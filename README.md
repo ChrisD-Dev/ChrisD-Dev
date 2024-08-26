@@ -26,9 +26,7 @@
 <br>
 🌱 Algunos de mis proyectos:
 
-<h5>- <a href="https://cafelite.vercel.app/">Cafelite</a> (Tecnologías empleadas: Typescript, NextJS, TailwindsCSS y FramerMotion)</h5>
-<h5>- <a href="https://pokedex-next-web-app.vercel.app//">Pokedex</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, PokeAPI, FramerMotion y Zustand)</h5>
-<h5>- <a href="https://filmzone-web-app.vercel.app/">FilmZone</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, TMDBAPI, FramerMotion, Prisma, Docker, SQL y NextAuth )</h5>
+
 <h5>- <a href="https://github.com/ChrisD-Dev/Node-Rest-Server">Node RestServer</a> (Tecnologías empleadas: NodeJS, Express y MongoDB )</h5>
 
 
