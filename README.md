@@ -14,20 +14,18 @@
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Prisma](https://img.shields.io/badge/-prisma-000?&logo=prisma)
-
-<!--Aprendiendo-->
-<br>
-📖  Actualmente aprendiendo:
-
 ![Typescript](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Typescript](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+
 
 <!--Proyectos-->
 <br>
 🌱 Algunos de mis proyectos:
 
-
-<h5>- <a href="https://github.com/ChrisD-Dev/Node-Rest-Server">Node RestServer</a> (Tecnologías empleadas: NodeJS, Express y MongoDB )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/Node-Rest-Server">Node RestServer</a> (Tecnologías empleadas: Typescript, NodeJS, Express y MongoDB )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/TS-Todo-App">TS Todo App</a> (Tecnologías empleadas: Typescript, React, Vite )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/Pokedex-Web-App">Caffelite Web App</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, PokeApi )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/cafelite-web-app">Node RestServer</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS )</h5>
 
 
 <!--Contacto-->
