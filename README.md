@@ -24,8 +24,8 @@
 
 <h5>- <a href="https://github.com/ChrisD-Dev/Node-Rest-Server">Node RestServer</a> (Tecnologías empleadas: Typescript, NodeJS, Express y MongoDB )</h5>
 <h5>- <a href="https://github.com/ChrisD-Dev/TS-Todo-App">TS Todo App</a> (Tecnologías empleadas: Typescript, React, Vite )</h5>
-<h5>- <a href="https://github.com/ChrisD-Dev/Pokedex-Web-App">Caffelite Web App</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, PokeApi )</h5>
-<h5>- <a href="https://github.com/ChrisD-Dev/cafelite-web-app">Node RestServer</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/Pokedex-Web-App">Pokedex-Web-App</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS, PokeApi )</h5>
+<h5>- <a href="https://github.com/ChrisD-Dev/cafelite-web-app">Caffelite Web App</a> (Tecnologías empleadas: Typescript, NextJS, TailwindCSS )</h5>
 
 
 <!--Contacto-->
